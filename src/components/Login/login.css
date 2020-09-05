@@ -1,0 +1,19 @@
+.login-container{
+	height: 100vh;
+	background-color: #EF5350;
+	font-family: 'Play Fair';
+	font-size: 4em;
+}
+.login{
+	height: 100vh;
+	background-color: white;
+}
+.login-form{
+	min-width: 300px;
+	height: auto;
+	width: 50%;
+	box-shadow: 0px 0px 4px #2a5793;
+	padding: 2.5%;
+	border-radius: 2px;
+	margin: 0 2.5%;
+}
